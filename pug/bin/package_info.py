@@ -7,7 +7,7 @@ __subpackage__ = 'bin'
 __doc__ = "{}.{} -- Shell scripts by and for `pug` (PDX Python User Group) for NLP, data mining, machine learning, and dev ops".format(
            __namespace_package__, __subpackage__)
 __url__ = "https://github.com/hobson/{}-{}".format(__namespace_package__, __subpackage__)
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 __author__ = "Hobson <hobson@totalgood.com>"
 __authors__ = (
     "Hobson <hobson@totalgood.com>",
