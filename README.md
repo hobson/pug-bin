@@ -8,7 +8,7 @@ This is a namespace package (sub-package) of the pug package a collection of uti
 
 ## Introduction
 
-PUG (PDX Python User Group) shell scripts for the `pug` package for NLP, data mining, machine learning, and dev ops
+Shell scripts for `pug` (PDX Python User Group) to help with NLP, data mining, machine learning, and dev ops
 
 ---
 
